@@ -503,7 +503,7 @@ export default function CyberPortfolio() {
               >
                 <Button asChild className="bg-[#00ff00] hover:bg-[#00ff00]/80 text-black font-mono">
                   <a href={resumeLink} target="_blank" rel="noopener noreferrer">
-                    ./download_cv <ExternalLink className="ml-2 h-4 w-4" />
+                    ./download_resume <ExternalLink className="ml-2 h-4 w-4" />
                   </a>
                 </Button>
               </motion.div>
