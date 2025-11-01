@@ -71,11 +71,7 @@ export default function AboutMe() {
 </p>
 
 <p className="font-mono text-[#00ff00] leading-relaxed">
-  I’ve built and deployed production-level applications such as a Restaurant Management System that automated
-  billing and order management for a local restaurant — improving operational accuracy by 30%, and a Fraud Detection
-  model that achieved a 91% ROC-AUC using CatBoost, XGBoost, and LightGBM on large banking datasets. My latest
-  NLP-based project leverages BERT, NER, and T5 Transformers to extract keywords and summarize over 500,000 corporate
-  emails, reducing manual reading time and enhancing workflow efficiency.
+  I’ve built and deployed production-level applications such as a Restaurant Management System that automated billing and order management for a local restaurant, making operations more accurate and efficient. I also developed a Fraud Detection model using CatBoost, XGBoost, and LightGBM on large banking datasets to identify suspicious transactions effectively. My latest NLP-based project uses BERT, NER, and T5 Transformers to extract keywords and summarize over 500,000 corporate emails, helping reduce manual reading and improve overall workflow efficiency.
 </p>
 
 <p className="font-mono text-[#00ff00] leading-relaxed">
