@@ -26,7 +26,7 @@ export default function Certifications() {
       title: "Automation Anywhere Certified Essentials RPA Professional",
       issuer: "Automation Anywhere",
       date: "2025",
-      image: "/automation-anywhere-certificate.png",
+      image: "/images/rpa.jpg",
       skills: ["RPA", "Automation 360", "Process Automation", "Workflow Design"],
     },
   ]
