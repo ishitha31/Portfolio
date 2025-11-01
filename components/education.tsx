@@ -25,10 +25,10 @@ export default function Education() {
       institution: "Narayana Junior College",
       location: "Hyderabad, India",
       period: "2019 – 2021",
-      grade: "Percentage: 67%",
+      grade: "Percentage: 69%",
     },
     {
-      degree: "Board of Secondary Education, Telangana (BSET)",
+      degree: "Central Board of Secondary Education (CBSE)",
       details: "",
       institution: "Sister Nivedita School",
       location: "Hyderabad, India",
