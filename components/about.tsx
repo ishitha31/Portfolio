@@ -49,7 +49,7 @@ const skillCategories: SkillCategory[] = [
 
   const education = [
     {
-      institution: "Sai UniversityMahatma Gandhi Institute of Technology",
+      institution: "Mahatma Gandhi Institute of Technology",
       degree: "B.Tech in Computing and Data Science",
       period: "2021 – 2025",
       details: "Major: Computer Science & Engineering",
